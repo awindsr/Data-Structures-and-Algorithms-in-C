@@ -29,6 +29,7 @@ The exercises are organized into the following categories:
 - **Arrays and Strings**
 - **Hash Table**
 - **Linked Lists**
+- **Memory Management**
 - **Searching Algorithms**
 - **Sorting Algorithms**
 - **Stacks and Queues**
