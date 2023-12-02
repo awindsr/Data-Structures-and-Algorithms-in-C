@@ -27,6 +27,7 @@ To get started with these exercises:
 The exercises are organized into the following categories:
 
 - **Arrays and Strings**
+- **Hash Table**
 - **Linked Lists**
 - **Searching Algorithms**
 - **Sorting Algorithms**
